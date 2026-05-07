@@ -1,4 +1,4 @@
-// Daftar produk dengan gambar
+
 const products = [
     { id: 1, name: 'beng beng', price: 2000, img: 'img/beng beng.jpg' },
     { id: 2, name: 'boncabe', price: 1000, img: 'img/boncabe.png' },
