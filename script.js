@@ -5,6 +5,7 @@ const products = [
     { id: 3, name: 'chocopie', price: 2000, img: 'chocopie.jpg' },
     { id: 4, name: 'maxicorn', price: 2000, img: 'maxicorn.jpg' },
     { id: 5, name: 'qtella', price: 2000, img: 'qtella.png' },
+    { id: 6, name: 'velg', price: 10.000.000. img: 'velg.jpg},
 ];
 
 // Keranjang belanja
